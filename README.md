@@ -6,3 +6,6 @@ Practicar el registro de cambios con Git.
 ## Evidencia 
 Primer commit realizado el 10 de agosto de 2026. 
 He modificado algo
+## Talento Natural
+Dichivache
+ 
